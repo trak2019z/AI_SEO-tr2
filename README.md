@@ -15,15 +15,15 @@ Fraza:
 
 jak lowic:	86<br>
 jak łowić:	91<br>
-sprzęt wędkarski:	Brak pozycji
-sprzet wedkarski:	Brak pozycji
-wedkarstwo feederowe:	Brak pozycji
-wędkarstwo feederowe:	Brak pozycji
-<br>
-06.05.2019
-jak lowic:	89
-jak łowić:	91
-sprzęt wędkarski:	Brak pozycji
-sprzet wedkarski:	Brak pozycji
-wedkarstwo feederowe:	80
-wędkarstwo feederowe:	92
+sprzęt wędkarski:	Brak pozycji<br>
+sprzet wedkarski:	Brak pozycji<br>
+wedkarstwo feederowe:	Brak pozycji<br>
+wędkarstwo feederowe:	Brak pozycji<br>
+<br><br>
+06.05.2019<br>
+jak lowic:	89<br>
+jak łowić:	91<br>
+sprzęt wędkarski:	Brak pozycji<br>
+sprzet wedkarski:	Brak pozycji<br>
+wedkarstwo feederowe:	80<br>
+wędkarstwo feederowe:	92<br>
