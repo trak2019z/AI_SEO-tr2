@@ -5,7 +5,7 @@
 Wnioski do rozmowy:<br>
 1. subdomena znowu wariuje?
 2. Wbicie do rankingu natychmiast, bez czekania :) - spider
-3. Adblocki i ich rola
+3. Adblocki i ich rola (nowe info)
 
 <br><br>
 Fraza:
