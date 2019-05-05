@@ -9,4 +9,9 @@ Wnioski do rozmowy:<br>
 
 <br><br>
 Fraza:
-05.05.2019 Jaklowic - 99 miejsce 
+05.05.2019 
+<br>
+colmic:	Brak pozycji<br>
+jak lowic:	86<br>
+jak łowić:	91<br>
+sprzęt wędkarski:	Brak pozycji<br>
