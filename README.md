@@ -4,3 +4,8 @@
 <br><br>
 Wnioski do rozmowy:<br>
 1. subdomena znowu wariuje?
+
+
+<br><br>
+Fraza:
+05.05.2019 Jaklowic - 99 miejsce 
