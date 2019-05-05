@@ -4,6 +4,7 @@
 <br><br>
 Wnioski do rozmowy:<br>
 1. subdomena znowu wariuje?
+2. Wbicie do rankingu natychmiast, bez czekania :) - spider
 
 
 <br><br>
