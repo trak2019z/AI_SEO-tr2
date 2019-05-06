@@ -7,7 +7,7 @@ Wnioski do rozmowy:<br>
 2. Wbicie do rankingu natychmiast, bez czekania :) - spider
 3. Adblocki i ich rola (nowe info)
 4. 06.05 widac pierwszy okres stabilizacji fraz
-
+5. crypto inurl:
 <br><br>
 Fraza:
 05.05.2019 
