@@ -1,0 +1,11 @@
+SELECT
+				
+				wp_competition_entries.date,
+				wp_competition_entries_meta.meta_value
+				FROM
+				wp_competition_entries
+				INNER JOIN wp_competition_entries_meta ON wp_competition_entries.id = wp_competition_entries_meta.entry_id
+				INNER JOIN wp_posts ON wp_competition_entries.comp_id =wp_posts.ID
+				WHERE wp_competition_entries.comp_id=9
+				
+                ORDER BY wp_competition_entries_meta.entry_id
