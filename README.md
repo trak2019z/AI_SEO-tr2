@@ -26,4 +26,12 @@ jak łowić:	91<br>
 sprzęt wędkarski:	Brak pozycji<br>
 sprzet wedkarski:	Brak pozycji<br>
 wedkarstwo feederowe:	80<br>
-wędkarstwo feederowe:	92<br>
+wędkarstwo feederowe:	92<br><br>
+12.05.2019<br>
+Puszczenie bota do wyświetleń i zbieranie leadów, jak widać strona dostała bana, trzeba będzie odbanować.<br>
+jak lowic:	pozycji<br>
+jak łowić:	pozycji<br>
+sprzęt wędkarski:	Brak pozycji<br>
+sprzet wedkarski:	Brak pozycji<br>
+wedkarstwo feederowe:	Brak pozycji<br>
+wędkarstwo feederowe:	Brak pozycji<br
