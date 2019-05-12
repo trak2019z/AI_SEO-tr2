@@ -35,3 +35,6 @@ sprzęt wędkarski:	Brak pozycji<br>
 sprzet wedkarski:	Brak pozycji<br>
 wedkarstwo feederowe:	Brak pozycji<br>
 wędkarstwo feederowe:	Brak pozycji<br
+
+Konkurencja około 42k na podkarpaciu samym, będzie ciekawa walka.<br>
+Wstawiono kilka autorskich tekstów pod anchory wymagane<br>
