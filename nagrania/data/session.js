@@ -1,0 +1,153 @@
+var MF = MF || {};MF.RecordingData = MF.RecordingData || {};MF.RecordingData["session"] = {
+  "id": "90476f8b5145b2f75abb37259e27ae9e",
+  "token": "",
+  "created": "2019-05-28T23:00:40.3287223+02:00",
+  "lastActivity": "2019-05-28T23:01:32.320211+02:00",
+  "pageViews": [
+    {
+      "id": "05283850534d0e44b836cb3b91b27f6743294efc",
+      "startTime": "2019-05-28T23:00:40.3287223+02:00",
+      "endTime": "2019-05-28T23:00:45.3618927+02:00",
+      "title": "Jak Łowić - Jak efektywnie łowić ryby - Proste sztuczki i metody jak dobrze łowić, jak zwiększyć połów. Przygotowanie do zawodów wędkarskich. Wędkarstwo Feederowe, sprzęt wędkarski",
+      "uri": "http://jaklowic.pl/",
+      "websitePage": "/",
+      "visitTime": 5091,
+      "engagementTime": 5091,
+      "scroll": 48.0,
+      "tags": [
+        "mouse-out"
+      ],
+      "friction": 1,
+      "annotations": []
+    },
+    {
+      "id": "05284486461ea71f50a64cbaf93ee388733e288d",
+      "startTime": "2019-05-28T23:00:45.877948+02:00",
+      "endTime": "2019-05-28T23:00:58.2788461+02:00",
+      "title": "JAK ŁOWIĆ FEEDEROWO - Jak Łowić - Jak efektywnie łowić ryby",
+      "uri": "http://jaklowic.pl/jak-lowic-feederowo/",
+      "websitePage": "/jak-lowic-feederowo",
+      "visitTime": 12450,
+      "engagementTime": 12450,
+      "scroll": 96.0,
+      "tags": [
+        "mouse-out"
+      ],
+      "friction": 0,
+      "annotations": []
+    },
+    {
+      "id": "05285728a7d34608626c57588cc7c2d4225f5510",
+      "startTime": "2019-05-28T23:00:58.809846+02:00",
+      "endTime": "2019-05-28T23:01:12.725846+02:00",
+      "title": "Jak łowić - porady - Jak Łowić - Jak efektywnie łowić ryby",
+      "uri": "http://jaklowic.pl/jak-skutecznie-lowic-porady/",
+      "websitePage": "/jak-skutecznie-lowic-porady",
+      "visitTime": 13916,
+      "engagementTime": 13916,
+      "scroll": 100.0,
+      "tags": [],
+      "friction": 0,
+      "annotations": []
+    },
+    {
+      "id": "05281105e77515f80dfba3c8f443ab0d108fcf83",
+      "startTime": "2019-05-28T23:01:13.3614248+02:00",
+      "endTime": "2019-05-28T23:01:16.2511402+02:00",
+      "title": "Jak łowić - porady - Jak Łowić - Jak efektywnie łowić ryby",
+      "uri": "http://jaklowic.pl/jak-skutecznie-lowic-porady/",
+      "websitePage": "/jak-skutecznie-lowic-porady",
+      "visitTime": 3008,
+      "engagementTime": 3008,
+      "scroll": 19.0,
+      "tags": [],
+      "friction": 0,
+      "annotations": []
+    },
+    {
+      "id": "05281525a3210705c7d1466d869fdc3aee4bdbcf",
+      "startTime": "2019-05-28T23:01:16.6212532+02:00",
+      "endTime": "2019-05-28T23:01:19.7352532+02:00",
+      "title": "JAK ŁOWIĆ FEEDEROWO - Jak Łowić - Jak efektywnie łowić ryby",
+      "uri": "http://jaklowic.pl/jak-lowic-feederowo/",
+      "websitePage": "/jak-lowic-feederowo",
+      "visitTime": 3114,
+      "engagementTime": 3114,
+      "scroll": 100.0,
+      "tags": [],
+      "friction": 0,
+      "annotations": []
+    },
+    {
+      "id": "05281820459e8e1c7fc645cb1983b13631d3fd99",
+      "startTime": "2019-05-28T23:01:20.0917264+02:00",
+      "endTime": "2019-05-28T23:01:21.0617264+02:00",
+      "title": "Łowienie Archives - Jak Łowić - Jak efektywnie łowić ryby",
+      "uri": "http://jaklowic.pl/category/lowienie/",
+      "websitePage": "/category/lowienie",
+      "visitTime": 970,
+      "engagementTime": 970,
+      "scroll": 63.0,
+      "tags": [],
+      "friction": 0,
+      "annotations": []
+    },
+    {
+      "id": "052820764e3d8242dbd1b00e6b4d42e7fc7ada7f",
+      "startTime": "2019-05-28T23:01:21.6648816+02:00",
+      "endTime": "2019-05-28T23:01:25.3068816+02:00",
+      "title": "Wędkarstwo, czym jest? - Jak Łowić - Jak efektywnie łowić ryby",
+      "uri": "http://jaklowic.pl/wedkarstwo-czym-jest/",
+      "websitePage": "/wedkarstwo-czym-jest",
+      "visitTime": 3642,
+      "engagementTime": 3642,
+      "scroll": 94.0,
+      "tags": [],
+      "friction": 0,
+      "annotations": []
+    },
+    {
+      "id": "05282441299c07136b36817b7015393508b43515",
+      "startTime": "2019-05-28T23:01:25.9379025+02:00",
+      "endTime": "2019-05-28T23:01:32.320211+02:00",
+      "title": "Red Fish? Jak łowić - sprawdź jak złowić słynną czerwoną rybe",
+      "uri": "http://jaklowic.pl/red-fish-jak-lowic/",
+      "websitePage": "/red-fish-jak-lowic",
+      "visitTime": 6435,
+      "engagementTime": 6435,
+      "scroll": 70.0,
+      "tags": [
+        "mouse-out"
+      ],
+      "friction": 1,
+      "annotations": []
+    }
+  ],
+  "duration": 48626,
+  "engagementTime": 48626,
+  "friction": 2,
+  "country": "pl",
+  "region": "80",
+  "city": "Rzeszow",
+  "isp": "#####",
+  "ip": "91.246.72.###",
+  "lang": "pl-PL",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763",
+  "browser": "Microsoft Edge",
+  "browserVersion": "18.17763",
+  "os": "Windows",
+  "osVersion": "10",
+  "device": "Desktop",
+  "referrer": "",
+  "referrerType": "",
+  "screenRes": "1280x1024",
+  "tags": [
+    "mouse-out"
+  ],
+  "variables": [],
+  "watched": true,
+  "starred": false,
+  "lng": 21.9798,
+  "lat": 50.0337,
+  "gdpr": true
+}
