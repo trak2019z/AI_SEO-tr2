@@ -27,6 +27,15 @@
 </head>
 
 <body <?php body_class(); ?>>
+	<script type="text/javascript">
+    window._mfq = window._mfq || [];
+    (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.async = true;
+        mf.src = "//cdn.mouseflow.com/projects/3fa56d32-ed75-45cf-a383-4e4f5a2a52e6.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script>
 <div id="page" class="site">
 	<?php
 	/**
