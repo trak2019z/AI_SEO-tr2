@@ -36,6 +36,16 @@
         document.getElementsByTagName("head")[0].appendChild(mf);
     })();
 </script>
+	<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "4c8eeb81-0772-4479-b9ec-21c35ae99ee4",
+    });
+  });
+</script>
 <div id="page" class="site">
 	<?php
 	/**
